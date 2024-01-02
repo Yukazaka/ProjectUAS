@@ -1,28 +1,27 @@
 const { mongoose, Schema } = require("mongoose");
 
-const MovieSchema = new Schema({
+const daftarSchema = new Schema({
   _id: Number,
-  nama: String,
-  tahun_terbit: Number,
-  kategori: { type: Number, ref: "kategori_movie" },
-  publisher: String,
+  nama_target: String,
+  tanggal_lahir: Number,
   deskripsi: String,
-  img: String,
+  kategori: String,
+  gender: String,
   // release: [{ _id: mongoose.Types.ObjectId, tipe: String, airing: Number }],
   release: [{ _id: Number, tipe: String, airing: Number }],
 });
 
-MovieSchema.virtual("id").get(function () {
+daftarSchema.virtual("id").get(function () {
   return this._id.toString();
 });
 
-MovieSchema.set("toJSON", {
+daftarSchema.set("toJSON", {
   virtuals: true,
 });
 
 /**
  * Parameter ketiga model adalah nama collection di mongodb mu
  */
-const Movie = mongoose.model("movie", MovieSchema, "movie");
+const daftar = mongoose.model("daftar", daftarSchema, "daftar");
 
 module.exports = Movie;
