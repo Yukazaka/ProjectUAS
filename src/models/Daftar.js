@@ -24,4 +24,4 @@ daftarSchema.set("toJSON", {
  */
 const daftar = mongoose.model("daftar", daftarSchema, "daftar");
 
-module.exports = Movie;
+module.exports = Daftar;

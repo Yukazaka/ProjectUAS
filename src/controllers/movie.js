@@ -2,7 +2,7 @@ const { Movie } = require("../models");
 
 const queryMovie = async (req, res) => {
   const { keyword, tahun_terbit_awal, tahun_terbit_akhir } = req.query;
-  let result = Movie.find();
+  let result = Daftar.find();
 
   if (keyword !== undefined) {
     // i dibelakang untuk case-insensitive
@@ -39,7 +39,7 @@ const getSingleMovie = async (req, res) => {
     return res.status(404).json({ message: "Movie tidak ditemukan" });
   }
 
-  const result = await Movie.findById(Number(req.params.id))
+  const result = await Daftar.findById(Number(req.params.id))
     .populate("kategori")
     .exec();
 
@@ -51,7 +51,7 @@ const getSingleMovie = async (req, res) => {
 };
 
 const postMovie = async (req, res) => {
-  const getMaxId = await Movie.aggregate()
+  const getMaxId = await Daftar.aggregate()
     .group({
       _id: null,
       maxId: { $max: "$_id" },
@@ -62,7 +62,7 @@ const postMovie = async (req, res) => {
   const body = req.body;
   body["_id"] = Number(getMaxId[0].maxId) + 1;
 
-  const result = await Movie.create(body);
+  const result = await Daftar.create(body);
 
   if (!result) {
     return res.status(500).json({ message: "Gagal Insert" });
@@ -76,7 +76,7 @@ const putMovie = async (req, res) => {
   const body = req.body;
 
   //   option new untuk mengembalikan data terbaru SETELAH UPDATE
-  const result = await Movie.findOneAndUpdate({ _id: id }, body, { new: true });
+  const result = await Daftar.findOneAndUpdate({ _id: id }, body, { new: true });
 
   if (!result) {
     return res.status(500).json({ message: "Gagal update" });
@@ -88,7 +88,7 @@ const putMovie = async (req, res) => {
 const deleteMovie = async (req, res) => {
   const id = Number(req.params.id);
 
-  const result = await Movie.deleteOne({ _id: id });
+  const result = await Daftar.deleteOne({ _id: id });
 
   if (result.deletedCount <= 0) {
     return res.status(500).json({ message: "Gagal Delete" });
