@@ -1,4 +1,4 @@
-const { Movie } = require("../models");
+const { daftar } = require("../models");
 
 const queryMovie = async (req, res) => {
   const { keyword, tahun_terbit_awal, tahun_terbit_akhir } = req.query;
