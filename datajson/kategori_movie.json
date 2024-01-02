@@ -1,0 +1,25 @@
+[{
+    "_id": 1,
+    "nama": "Horror"
+  },{
+    "_id": 2,
+    "nama": "Comedy"
+  },{
+    "_id": 3,
+    "nama": "Documentary"
+  },{
+    "_id": 4,
+    "nama": "Drama"
+  },{
+    "_id": 5,
+    "nama": "Romance"
+  },{
+    "_id": 6,
+    "nama": "Animation"
+  },{
+    "_id": 7,
+    "nama": "Crime"
+  },{
+    "_id": 8,
+    "nama": "Sci-Fi"
+  }]

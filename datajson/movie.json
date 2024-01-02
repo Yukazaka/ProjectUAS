@@ -1,0 +1,4371 @@
+[{
+    "_id": 1,
+    "nama": "Movie put 122",
+    "tahun_terbit": 2111,
+    "publisher": "ISTTS 122",
+    "deskripsi": "ini deskripsi movie put 1",
+    "img": "https://dummyimage.com/200x200.png/44BB44/ffffff",
+    "release": [
+      {
+        "tipe": "manga",
+        "airing": 2111
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 2,
+    "nama": "White Shadow, The",
+    "tahun_terbit": 2004,
+    "publisher": "Jabberstorm",
+    "deskripsi": "elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 3,
+    "nama": "Viva María!",
+    "tahun_terbit": 2012,
+    "publisher": "Jabbertype",
+    "deskripsi": "in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 4,
+    "nama": "Going Hollywood",
+    "tahun_terbit": 1997,
+    "publisher": "Mymm",
+    "deskripsi": "ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 5,
+    "nama": "Passed Away",
+    "tahun_terbit": 2011,
+    "publisher": "Midel",
+    "deskripsi": "tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 6,
+    "nama": "Christopher Columbus: The Discovery",
+    "tahun_terbit": 2007,
+    "publisher": "Bubblemix",
+    "deskripsi": "eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 7,
+    "nama": "Mad Money",
+    "tahun_terbit": 1999,
+    "publisher": "Skipfire",
+    "deskripsi": "aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 8,
+    "nama": "Me and Morrison (Minä ja Morrison)",
+    "tahun_terbit": 2008,
+    "publisher": "Skinder",
+    "deskripsi": "gravida sem praesent id massa id nisl venenatis lacinia aenean sit",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 9,
+    "nama": "Equinox",
+    "tahun_terbit": 2012,
+    "publisher": "Kaymbo",
+    "deskripsi": "consequat lectus in est risus auctor sed tristique in tempus sit amet",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 10,
+    "nama": "Red",
+    "tahun_terbit": 1992,
+    "publisher": "Tazzy",
+    "deskripsi": "penatibus et magnis dis parturient montes nascetur ridiculus mus etiam",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 11,
+    "nama": "Women, The",
+    "tahun_terbit": 2010,
+    "publisher": "Eazzy",
+    "deskripsi": "amet eros suspendisse accumsan tortor quis turpis sed ante vivamus",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 12,
+    "nama": "Diaries of Vaslav Nijinsky, The",
+    "tahun_terbit": 2011,
+    "publisher": "Realbridge",
+    "deskripsi": "ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 13,
+    "nama": "Smilla's Sense of Snow",
+    "tahun_terbit": 2007,
+    "publisher": "Browsecat",
+    "deskripsi": "pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 14,
+    "nama": "Orwell Rolls in His Grave",
+    "tahun_terbit": 1995,
+    "publisher": "Edgepulse",
+    "deskripsi": "at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 15,
+    "nama": "Dr. Cyclops",
+    "tahun_terbit": 1991,
+    "publisher": "Livetube",
+    "deskripsi": "curae duis faucibus accumsan odio curabitur convallis duis consequat dui",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 16,
+    "nama": "Fubar II (Fubar: Balls to the Wall)",
+    "tahun_terbit": 1989,
+    "publisher": "Shuffledrive",
+    "deskripsi": "habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 17,
+    "nama": "There's Something About Mary",
+    "tahun_terbit": 2004,
+    "publisher": "Meembee",
+    "deskripsi": "orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 18,
+    "nama": "Nights of Cabiria (Notti di Cabiria, Le)",
+    "tahun_terbit": 2012,
+    "publisher": "Kaymbo",
+    "deskripsi": "odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 19,
+    "nama": "Wet Parade, The",
+    "tahun_terbit": 2006,
+    "publisher": "Mymm",
+    "deskripsi": "dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 20,
+    "nama": "Capone",
+    "tahun_terbit": 2010,
+    "publisher": "Bubblemix",
+    "deskripsi": "eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 21,
+    "nama": "Shadows (Senki)",
+    "tahun_terbit": 1991,
+    "publisher": "Dabfeed",
+    "deskripsi": "convallis duis consequat dui nec nisi volutpat eleifend donec ut",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 22,
+    "nama": "Nora",
+    "tahun_terbit": 2008,
+    "publisher": "Devify",
+    "deskripsi": "sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 23,
+    "nama": "Blue Smoke",
+    "tahun_terbit": 1990,
+    "publisher": "Jabbersphere",
+    "deskripsi": "interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 24,
+    "nama": "Priest",
+    "tahun_terbit": 1997,
+    "publisher": "Tavu",
+    "deskripsi": "nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 25,
+    "nama": "Martyrs",
+    "tahun_terbit": 2006,
+    "publisher": "Browseblab",
+    "deskripsi": "pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 26,
+    "nama": "The Gilded Cage",
+    "tahun_terbit": 1997,
+    "publisher": "Twimbo",
+    "deskripsi": "eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 27,
+    "nama": "As Good as It Gets",
+    "tahun_terbit": 1984,
+    "publisher": "Voonder",
+    "deskripsi": "ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 28,
+    "nama": "Romantic Englishwoman, The",
+    "tahun_terbit": 1995,
+    "publisher": "Skibox",
+    "deskripsi": "luctus nec molestie sed justo pellentesque viverra pede ac diam",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 29,
+    "nama": "Shalako",
+    "tahun_terbit": 2007,
+    "publisher": "Blogtags",
+    "deskripsi": "justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 30,
+    "nama": "Guardian, The",
+    "tahun_terbit": 2003,
+    "publisher": "Thoughtbridge",
+    "deskripsi": "accumsan felis ut at dolor quis odio consequat varius integer ac leo",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 31,
+    "nama": "Oliver Twist",
+    "tahun_terbit": 2013,
+    "publisher": "Vimbo",
+    "deskripsi": "justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 32,
+    "nama": "The Little Rascals Save the Day",
+    "tahun_terbit": 2006,
+    "publisher": "Voonyx",
+    "deskripsi": "orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 33,
+    "nama": "Vera Cruz",
+    "tahun_terbit": 1994,
+    "publisher": "Flashspan",
+    "deskripsi": "velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 34,
+    "nama": "Monk and the Fish, The (Le moine et le poisson)",
+    "tahun_terbit": 2003,
+    "publisher": "Yodo",
+    "deskripsi": "nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 35,
+    "nama": "Mine Games",
+    "tahun_terbit": 1990,
+    "publisher": "Oozz",
+    "deskripsi": "vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 36,
+    "nama": "Breakheart Pass",
+    "tahun_terbit": 1991,
+    "publisher": "Livepath",
+    "deskripsi": "penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 37,
+    "nama": "Wiz, The",
+    "tahun_terbit": 1990,
+    "publisher": "Jaxbean",
+    "deskripsi": "suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 38,
+    "nama": "Tough Ones, The (Häjyt)",
+    "tahun_terbit": 2008,
+    "publisher": "Skyvu",
+    "deskripsi": "urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 39,
+    "nama": "Psychopath, The",
+    "tahun_terbit": 2006,
+    "publisher": "Twimm",
+    "deskripsi": "turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 40,
+    "nama": "Entertaining Angels: The Dorothy Day Story",
+    "tahun_terbit": 2011,
+    "publisher": "Twitterwire",
+    "deskripsi": "amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 41,
+    "nama": "Sunflower (Xiang ri kui)",
+    "tahun_terbit": 2004,
+    "publisher": "Nlounge",
+    "deskripsi": "sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 42,
+    "nama": "Nightwatch (Nattevagten)",
+    "tahun_terbit": 2010,
+    "publisher": "Kayveo",
+    "deskripsi": "iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 6
+  },{
+    "_id": 43,
+    "nama": "Let's Go to Prison",
+    "tahun_terbit": 1965,
+    "publisher": "Zoomzone",
+    "deskripsi": "enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 44,
+    "nama": "Reindeer Games",
+    "tahun_terbit": 2009,
+    "publisher": "Feedfire",
+    "deskripsi": "ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 45,
+    "nama": "Desert Rats, The",
+    "tahun_terbit": 2009,
+    "publisher": "Dynazzy",
+    "deskripsi": "eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 46,
+    "nama": "Adventures of Rocky and Bullwinkle, The",
+    "tahun_terbit": 2002,
+    "publisher": "Devcast",
+    "deskripsi": "erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 47,
+    "nama": "Welcome to L.A.",
+    "tahun_terbit": 2003,
+    "publisher": "Skajo",
+    "deskripsi": "justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 48,
+    "nama": "El tren de la memoria",
+    "tahun_terbit": 1997,
+    "publisher": "Snaptags",
+    "deskripsi": "nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 49,
+    "nama": "Make Your Move",
+    "tahun_terbit": 2010,
+    "publisher": "Shufflester",
+    "deskripsi": "molestie lorem quisque ut erat curabitur gravida nisi at nibh in",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 50,
+    "nama": "Female Demon Ohyaku (Yôen dokufuden hannya no ohyaku)",
+    "tahun_terbit": 2008,
+    "publisher": "Skynoodle",
+    "deskripsi": "interdum venenatis turpis enim blandit mi in porttitor pede justo eu",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 51,
+    "nama": "Just Between Friends",
+    "tahun_terbit": 2007,
+    "publisher": "Twiyo",
+    "deskripsi": "sem duis aliquam convallis nunc proin at turpis a pede posuere",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 6
+  },{
+    "_id": 52,
+    "nama": "Son in Law",
+    "tahun_terbit": 2005,
+    "publisher": "Kazio",
+    "deskripsi": "nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 53,
+    "nama": "Stroker Ace",
+    "tahun_terbit": 1997,
+    "publisher": "Babblestorm",
+    "deskripsi": "tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 54,
+    "nama": "This Land Is Mine",
+    "tahun_terbit": 2006,
+    "publisher": "Centizu",
+    "deskripsi": "dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 55,
+    "nama": "Just Another Love Story (Kærlighed på film)",
+    "tahun_terbit": 2010,
+    "publisher": "Livetube",
+    "deskripsi": "suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 56,
+    "nama": "Betrayal, The (Nerakhoon)",
+    "tahun_terbit": 1995,
+    "publisher": "Kimia",
+    "deskripsi": "justo morbi ut odio cras mi pede malesuada in imperdiet",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 57,
+    "nama": "House of Tolerance",
+    "tahun_terbit": 2009,
+    "publisher": "Brainverse",
+    "deskripsi": "cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 58,
+    "nama": "Dark Side of the Sun, The",
+    "tahun_terbit": 1995,
+    "publisher": "Demimbu",
+    "deskripsi": "sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 59,
+    "nama": "Big Man Japan (Dai-Nihonjin)",
+    "tahun_terbit": 1995,
+    "publisher": "Kamba",
+    "deskripsi": "sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 60,
+    "nama": "Two Lives (Zwei Leben)",
+    "tahun_terbit": 1995,
+    "publisher": "Zoovu",
+    "deskripsi": "velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 61,
+    "nama": "World According to Dick Cheney, The ",
+    "tahun_terbit": 2007,
+    "publisher": "Skipstorm",
+    "deskripsi": "suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 62,
+    "nama": "The great match",
+    "tahun_terbit": 1999,
+    "publisher": "Quaxo",
+    "deskripsi": "sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 63,
+    "nama": "Casual Sex?",
+    "tahun_terbit": 2003,
+    "publisher": "Yodo",
+    "deskripsi": "odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 64,
+    "nama": "Children On Their Birthdays",
+    "tahun_terbit": 1994,
+    "publisher": "Meezzy",
+    "deskripsi": "vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 65,
+    "nama": "Riot in Cell Block 11",
+    "tahun_terbit": 2007,
+    "publisher": "Skidoo",
+    "deskripsi": "in est risus auctor sed tristique in tempus sit amet",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 66,
+    "nama": "Paperman",
+    "tahun_terbit": 1991,
+    "publisher": "Linklinks",
+    "deskripsi": "pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 67,
+    "nama": "Voodoo Tiger",
+    "tahun_terbit": 1993,
+    "publisher": "Reallinks",
+    "deskripsi": "ipsum aliquam non mauris morbi non lectus aliquam sit amet",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 68,
+    "nama": "Waking the Dead",
+    "tahun_terbit": 2003,
+    "publisher": "Photobug",
+    "deskripsi": "tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 6
+  },{
+    "_id": 69,
+    "nama": "24th Day, The",
+    "tahun_terbit": 1991,
+    "publisher": "Eimbee",
+    "deskripsi": "luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 70,
+    "nama": "Shepherd: Border Patrol, The",
+    "tahun_terbit": 1994,
+    "publisher": "Brightbean",
+    "deskripsi": "odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 71,
+    "nama": "Bataan",
+    "tahun_terbit": 1998,
+    "publisher": "Centidel",
+    "deskripsi": "molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 72,
+    "nama": "Fear and Desire",
+    "tahun_terbit": 1992,
+    "publisher": "Realbuzz",
+    "deskripsi": "ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 73,
+    "nama": "36 fillette",
+    "tahun_terbit": 1999,
+    "publisher": "Cogibox",
+    "deskripsi": "orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 6
+  },{
+    "_id": 74,
+    "nama": "Call of Cthulhu, The",
+    "tahun_terbit": 2003,
+    "publisher": "Buzzbean",
+    "deskripsi": "lacus at velit vivamus vel nulla eget eros elementum pellentesque",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 75,
+    "nama": "Nick Fury: Agent of S.H.I.E.L.D.",
+    "tahun_terbit": 2003,
+    "publisher": "Feedmix",
+    "deskripsi": "id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 76,
+    "nama": "Syrinx",
+    "tahun_terbit": 1999,
+    "publisher": "Riffpedia",
+    "deskripsi": "suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 77,
+    "nama": "About Face: Supermodels Then and Now",
+    "tahun_terbit": 1991,
+    "publisher": "Chatterpoint",
+    "deskripsi": "nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 78,
+    "nama": "My New Gun",
+    "tahun_terbit": 2005,
+    "publisher": "Blogtag",
+    "deskripsi": "nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 79,
+    "nama": "Macbeth",
+    "tahun_terbit": 1995,
+    "publisher": "Voolia",
+    "deskripsi": "lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 80,
+    "nama": "Man Without a Past, The (Mies vailla menneisyyttä)",
+    "tahun_terbit": 2001,
+    "publisher": "Fanoodle",
+    "deskripsi": "nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 81,
+    "nama": "Scorched",
+    "tahun_terbit": 2011,
+    "publisher": "Oozz",
+    "deskripsi": "felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 82,
+    "nama": "Skippy",
+    "tahun_terbit": 2006,
+    "publisher": "Gabtype",
+    "deskripsi": "sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 83,
+    "nama": "Inception",
+    "tahun_terbit": 1996,
+    "publisher": "Kanoodle",
+    "deskripsi": "dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 84,
+    "nama": "Oxygen",
+    "tahun_terbit": 2004,
+    "publisher": "Edgetag",
+    "deskripsi": "eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 6
+  },{
+    "_id": 85,
+    "nama": "Savage Three",
+    "tahun_terbit": 1999,
+    "publisher": "Voomm",
+    "deskripsi": "nec nisi volutpat eleifend donec ut dolor morbi vel lectus in",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 86,
+    "nama": "Living Proof",
+    "tahun_terbit": 1996,
+    "publisher": "Edgepulse",
+    "deskripsi": "cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 87,
+    "nama": "Alexander the Great",
+    "tahun_terbit": 2000,
+    "publisher": "Youspan",
+    "deskripsi": "duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 88,
+    "nama": "Before Sunrise",
+    "tahun_terbit": 1997,
+    "publisher": "Thoughtworks",
+    "deskripsi": "quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 89,
+    "nama": "Sharpe's Eagle",
+    "tahun_terbit": 2013,
+    "publisher": "Dazzlesphere",
+    "deskripsi": "augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 6
+  },{
+    "_id": 90,
+    "nama": "Space Pirate Captain Harlock: Arcadia of My Youth (Waga seishun no Arcadia)",
+    "tahun_terbit": 1995,
+    "publisher": "Pixope",
+    "deskripsi": "rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 91,
+    "nama": "Copycat",
+    "tahun_terbit": 1998,
+    "publisher": "Zoonder",
+    "deskripsi": "vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 92,
+    "nama": "Rush Hour 3",
+    "tahun_terbit": 1997,
+    "publisher": "Centimia",
+    "deskripsi": "condimentum curabitur in libero ut massa volutpat convallis morbi odio odio",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 6
+  },{
+    "_id": 93,
+    "nama": "Doctor Detroit",
+    "tahun_terbit": 1992,
+    "publisher": "Divape",
+    "deskripsi": "habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 94,
+    "nama": "Fair Game",
+    "tahun_terbit": 2000,
+    "publisher": "Brainbox",
+    "deskripsi": "sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 95,
+    "nama": "Free Range (Ballaad maailma heakskiitmisest)",
+    "tahun_terbit": 1948,
+    "publisher": "Jabbercube",
+    "deskripsi": "maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 96,
+    "nama": "My Little Business (Ma petite entreprise)",
+    "tahun_terbit": 2010,
+    "publisher": "Realcube",
+    "deskripsi": "placerat praesent blandit nam nulla integer pede justo lacinia eget",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 97,
+    "nama": "Aimée & Jaguar",
+    "tahun_terbit": 2004,
+    "publisher": "Quatz",
+    "deskripsi": "vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 98,
+    "nama": "Morning Glory",
+    "tahun_terbit": 1992,
+    "publisher": "Kare",
+    "deskripsi": "augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 99,
+    "nama": "Whisky Galore",
+    "tahun_terbit": 1994,
+    "publisher": "Yodel",
+    "deskripsi": "aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 100,
+    "nama": "Panda! Go Panda! (Panda kopanda)",
+    "tahun_terbit": 2008,
+    "publisher": "Twitterbeat",
+    "deskripsi": "nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 101,
+    "nama": "Candy Snatchers, The",
+    "tahun_terbit": 1994,
+    "publisher": "Gabvine",
+    "deskripsi": "viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 102,
+    "nama": "3 Bad Men",
+    "tahun_terbit": 2002,
+    "publisher": "Myworks",
+    "deskripsi": "interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 103,
+    "nama": "World Unseen, The",
+    "tahun_terbit": 2000,
+    "publisher": "Meedoo",
+    "deskripsi": "dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 6
+  },{
+    "_id": 104,
+    "nama": "Neurons to Nirvana",
+    "tahun_terbit": 1990,
+    "publisher": "Yodel",
+    "deskripsi": "metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 105,
+    "nama": "One Last Hug",
+    "tahun_terbit": 2002,
+    "publisher": "Skipfire",
+    "deskripsi": "quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 106,
+    "nama": "Kill Your Darlings",
+    "tahun_terbit": 2002,
+    "publisher": "Dablist",
+    "deskripsi": "quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 107,
+    "nama": "Lord of War",
+    "tahun_terbit": 1990,
+    "publisher": "Meezzy",
+    "deskripsi": "sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 6
+  },{
+    "_id": 108,
+    "nama": "Vehicle 19",
+    "tahun_terbit": 2004,
+    "publisher": "Wikido",
+    "deskripsi": "tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 109,
+    "nama": "Vice",
+    "tahun_terbit": 1987,
+    "publisher": "Meemm",
+    "deskripsi": "phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 110,
+    "nama": "Young Unknowns, The",
+    "tahun_terbit": 2005,
+    "publisher": "Devify",
+    "deskripsi": "ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 111,
+    "nama": "Pictures of the Old World (Obrazy starého sveta)",
+    "tahun_terbit": 2005,
+    "publisher": "Dablist",
+    "deskripsi": "quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 112,
+    "nama": "Get a Horse!",
+    "tahun_terbit": 2009,
+    "publisher": "Jabbersphere",
+    "deskripsi": "erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 6
+  },{
+    "_id": 113,
+    "nama": "Crawlspace",
+    "tahun_terbit": 2001,
+    "publisher": "Meeveo",
+    "deskripsi": "varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 114,
+    "nama": "Disco Dancer",
+    "tahun_terbit": 2006,
+    "publisher": "Mydeo",
+    "deskripsi": "diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 115,
+    "nama": "Krakatoa: The Last Days",
+    "tahun_terbit": 2011,
+    "publisher": "Skidoo",
+    "deskripsi": "suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 116,
+    "nama": "American Pie Presents: Band Camp (American Pie 4: Band Camp)",
+    "tahun_terbit": 2006,
+    "publisher": "Jaloo",
+    "deskripsi": "vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 117,
+    "nama": "Scream of Stone (Cerro Torre: Schrei aus Stein)",
+    "tahun_terbit": 1999,
+    "publisher": "Bubblebox",
+    "deskripsi": "ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 118,
+    "nama": "To Each His Own Cinema (Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence)",
+    "tahun_terbit": 1996,
+    "publisher": "Dabtype",
+    "deskripsi": "curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 119,
+    "nama": "Super Hero Party Clown",
+    "tahun_terbit": 1984,
+    "publisher": "Eazzy",
+    "deskripsi": "vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 120,
+    "nama": "Pyaar Impossible",
+    "tahun_terbit": 1985,
+    "publisher": "Lazzy",
+    "deskripsi": "suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 121,
+    "nama": "¡Qué hacer!",
+    "tahun_terbit": 1995,
+    "publisher": "Fanoodle",
+    "deskripsi": "aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 122,
+    "nama": "Dead in the Water",
+    "tahun_terbit": 2003,
+    "publisher": "DabZ",
+    "deskripsi": "at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 123,
+    "nama": "Il Mare (Siworae)",
+    "tahun_terbit": 1994,
+    "publisher": "Yakidoo",
+    "deskripsi": "maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 124,
+    "nama": "Exit Wounds",
+    "tahun_terbit": 1992,
+    "publisher": "Blogspan",
+    "deskripsi": "venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 125,
+    "nama": "Lara Croft Tomb Raider: The Cradle of Life",
+    "tahun_terbit": 2000,
+    "publisher": "Miboo",
+    "deskripsi": "vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 126,
+    "nama": "Isadora",
+    "tahun_terbit": 1998,
+    "publisher": "Wikido",
+    "deskripsi": "lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 127,
+    "nama": "Made in Britain",
+    "tahun_terbit": 1998,
+    "publisher": "Trilith",
+    "deskripsi": "rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 128,
+    "nama": "Diana Vreeland: The Eye Has to Travel",
+    "tahun_terbit": 2011,
+    "publisher": "InnoZ",
+    "deskripsi": "bibendum morbi non quam nec dui luctus rutrum nulla tellus",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 129,
+    "nama": "Dealin' with Idiots",
+    "tahun_terbit": 1996,
+    "publisher": "Browsedrive",
+    "deskripsi": "eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 130,
+    "nama": "Kidnapped",
+    "tahun_terbit": 1992,
+    "publisher": "Thoughtbeat",
+    "deskripsi": "arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 131,
+    "nama": "Breakheart Pass",
+    "tahun_terbit": 2003,
+    "publisher": "Twitterworks",
+    "deskripsi": "turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 132,
+    "nama": "Sleepless Night (Nuit blanche)",
+    "tahun_terbit": 1999,
+    "publisher": "Blogtags",
+    "deskripsi": "bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 6
+  },{
+    "_id": 133,
+    "nama": "City Heat",
+    "tahun_terbit": 2010,
+    "publisher": "Tazzy",
+    "deskripsi": "nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 134,
+    "nama": "Tropical Fish (Re dai yu)",
+    "tahun_terbit": 2005,
+    "publisher": "Linkbridge",
+    "deskripsi": "venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 135,
+    "nama": "Celluloid Closet, The",
+    "tahun_terbit": 1999,
+    "publisher": "Kimia",
+    "deskripsi": "eros elementum pellentesque quisque porta volutpat erat quisque erat eros",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 6
+  },{
+    "_id": 136,
+    "nama": "On Moonlight Bay",
+    "tahun_terbit": 2006,
+    "publisher": "Topicstorm",
+    "deskripsi": "a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 137,
+    "nama": "Love Is News",
+    "tahun_terbit": 2000,
+    "publisher": "Buzzshare",
+    "deskripsi": "ac enim in tempor turpis nec euismod scelerisque quam turpis",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 138,
+    "nama": "Glass Menagerie, The",
+    "tahun_terbit": 2002,
+    "publisher": "Photobean",
+    "deskripsi": "mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 139,
+    "nama": "Enron: The Smartest Guys in the Room",
+    "tahun_terbit": 2011,
+    "publisher": "Trunyx",
+    "deskripsi": "integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 140,
+    "nama": "Make Your Move",
+    "tahun_terbit": 2004,
+    "publisher": "Yozio",
+    "deskripsi": "erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 141,
+    "nama": "Sex Ed",
+    "tahun_terbit": 2001,
+    "publisher": "Zoombeat",
+    "deskripsi": "fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 142,
+    "nama": "Exit Smiling",
+    "tahun_terbit": 2001,
+    "publisher": "Kanoodle",
+    "deskripsi": "amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 143,
+    "nama": "Stolen Face",
+    "tahun_terbit": 1985,
+    "publisher": "Vitz",
+    "deskripsi": "pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 144,
+    "nama": "Stuck in Love",
+    "tahun_terbit": 1997,
+    "publisher": "Dynabox",
+    "deskripsi": "vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 145,
+    "nama": "Shottas",
+    "tahun_terbit": 1984,
+    "publisher": "Photospace",
+    "deskripsi": "sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 6
+  },{
+    "_id": 146,
+    "nama": "Peking Opera Blues (Do ma daan)",
+    "tahun_terbit": 1993,
+    "publisher": "Centidel",
+    "deskripsi": "morbi ut odio cras mi pede malesuada in imperdiet et",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 147,
+    "nama": "Auto Focus",
+    "tahun_terbit": 1966,
+    "publisher": "Photospace",
+    "deskripsi": "iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 148,
+    "nama": "Father of the Bride",
+    "tahun_terbit": 1985,
+    "publisher": "Zoozzy",
+    "deskripsi": "phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 149,
+    "nama": "Sonatine (Sonachine)",
+    "tahun_terbit": 1986,
+    "publisher": "Yodoo",
+    "deskripsi": "ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 150,
+    "nama": "Decoy",
+    "tahun_terbit": 2001,
+    "publisher": "Thoughtblab",
+    "deskripsi": "sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 151,
+    "nama": "Devil's Chair, The",
+    "tahun_terbit": 2011,
+    "publisher": "Thoughtworks",
+    "deskripsi": "eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 152,
+    "nama": "Strul",
+    "tahun_terbit": 1995,
+    "publisher": "Innotype",
+    "deskripsi": "consequat lectus in est risus auctor sed tristique in tempus sit amet sem",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 153,
+    "nama": "Small Roads",
+    "tahun_terbit": 2011,
+    "publisher": "Skinte",
+    "deskripsi": "aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 154,
+    "nama": "Ugly Truth, The",
+    "tahun_terbit": 2006,
+    "publisher": "Jaxspan",
+    "deskripsi": "ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 155,
+    "nama": "Float",
+    "tahun_terbit": 1990,
+    "publisher": "Skimia",
+    "deskripsi": "est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 156,
+    "nama": "Wind with the Gone (El viento se llevó lo qué)",
+    "tahun_terbit": 2004,
+    "publisher": "Katz",
+    "deskripsi": "iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 157,
+    "nama": "Jimmy Carter Man from Plains",
+    "tahun_terbit": 1994,
+    "publisher": "Avamm",
+    "deskripsi": "duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 158,
+    "nama": "Secrets of the Heart (Secretos del Corazón)",
+    "tahun_terbit": 1967,
+    "publisher": "LiveZ",
+    "deskripsi": "justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 159,
+    "nama": "Midnight Lace",
+    "tahun_terbit": 2004,
+    "publisher": "Omba",
+    "deskripsi": "accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 160,
+    "nama": "Noah",
+    "tahun_terbit": 2005,
+    "publisher": "Pixonyx",
+    "deskripsi": "est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 161,
+    "nama": "Unholy Three, The",
+    "tahun_terbit": 1983,
+    "publisher": "Skinder",
+    "deskripsi": "aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 6
+  },{
+    "_id": 162,
+    "nama": "Genealogies of a Crime (Généalogies d'un crime)",
+    "tahun_terbit": 2006,
+    "publisher": "Feedmix",
+    "deskripsi": "id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 6
+  },{
+    "_id": 163,
+    "nama": "Five Obstructions, The (Fem benspænd, De)",
+    "tahun_terbit": 2006,
+    "publisher": "Skyba",
+    "deskripsi": "quam sapien varius ut blandit non interdum in ante vestibulum",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 164,
+    "nama": "Foreverland",
+    "tahun_terbit": 2000,
+    "publisher": "Quimba",
+    "deskripsi": "sed ante vivamus tortor duis mattis egestas metus aenean fermentum",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 165,
+    "nama": "Man in the Middle",
+    "tahun_terbit": 2003,
+    "publisher": "Pixoboo",
+    "deskripsi": "odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 166,
+    "nama": "One-Eyed Monster",
+    "tahun_terbit": 2009,
+    "publisher": "Pixoboo",
+    "deskripsi": "tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 167,
+    "nama": "Escapist, The",
+    "tahun_terbit": 2009,
+    "publisher": "Blogtags",
+    "deskripsi": "in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 168,
+    "nama": "Vehicle 19",
+    "tahun_terbit": 2012,
+    "publisher": "Flashpoint",
+    "deskripsi": "diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 6
+  },{
+    "_id": 169,
+    "nama": "Happy Gilmore",
+    "tahun_terbit": 1999,
+    "publisher": "Shuffledrive",
+    "deskripsi": "varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 170,
+    "nama": "Human Touch",
+    "tahun_terbit": 2004,
+    "publisher": "Photolist",
+    "deskripsi": "nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 171,
+    "nama": "Heartbreak Hotel",
+    "tahun_terbit": 2011,
+    "publisher": "Tavu",
+    "deskripsi": "sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 172,
+    "nama": "Hell Drivers",
+    "tahun_terbit": 2011,
+    "publisher": "DabZ",
+    "deskripsi": "in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 173,
+    "nama": "Desperados, The",
+    "tahun_terbit": 1994,
+    "publisher": "Edgetag",
+    "deskripsi": "ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 174,
+    "nama": "Crazy Mama",
+    "tahun_terbit": 1996,
+    "publisher": "Fadeo",
+    "deskripsi": "nec nisi volutpat eleifend donec ut dolor morbi vel lectus",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 175,
+    "nama": "Hello Ladies: The Movie",
+    "tahun_terbit": 1987,
+    "publisher": "Voomm",
+    "deskripsi": "habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 176,
+    "nama": "Storm Warning",
+    "tahun_terbit": 2001,
+    "publisher": "Gabspot",
+    "deskripsi": "augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 177,
+    "nama": "Mating Game, The",
+    "tahun_terbit": 2002,
+    "publisher": "Twimbo",
+    "deskripsi": "odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 178,
+    "nama": "Green Tea (Lü cha)",
+    "tahun_terbit": 1985,
+    "publisher": "Janyx",
+    "deskripsi": "turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 179,
+    "nama": "Aura, The (Aura, El)",
+    "tahun_terbit": 1997,
+    "publisher": "Quatz",
+    "deskripsi": "risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 180,
+    "nama": "Sword of Gideon",
+    "tahun_terbit": 2010,
+    "publisher": "Cogilith",
+    "deskripsi": "in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 181,
+    "nama": "The Lost Continent",
+    "tahun_terbit": 2010,
+    "publisher": "Latz",
+    "deskripsi": "hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  },{
+    "_id": 182,
+    "nama": "Eclipse, The",
+    "tahun_terbit": 2006,
+    "publisher": "Kwimbee",
+    "deskripsi": "habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 183,
+    "nama": "Gorgeous Hussy, The",
+    "tahun_terbit": 2003,
+    "publisher": "Riffpath",
+    "deskripsi": "vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 184,
+    "nama": "Eggs",
+    "tahun_terbit": 2009,
+    "publisher": "Edgeblab",
+    "deskripsi": "orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 185,
+    "nama": "Confessional, The (Confessionnal, Le)",
+    "tahun_terbit": 1993,
+    "publisher": "Browsecat",
+    "deskripsi": "tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 186,
+    "nama": "Body of Evidence",
+    "tahun_terbit": 2012,
+    "publisher": "Yakijo",
+    "deskripsi": "risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 4
+  },{
+    "_id": 187,
+    "nama": "Matrix Revolutions, The",
+    "tahun_terbit": 2011,
+    "publisher": "Tagpad",
+    "deskripsi": "bibendum morbi non quam nec dui luctus rutrum nulla tellus in",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 188,
+    "nama": "Laramie Project, The",
+    "tahun_terbit": 1994,
+    "publisher": "Dabfeed",
+    "deskripsi": "pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 189,
+    "nama": "Richie Rich",
+    "tahun_terbit": 2012,
+    "publisher": "Youbridge",
+    "deskripsi": "lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 190,
+    "nama": "New Rose Hotel",
+    "tahun_terbit": 1998,
+    "publisher": "Avaveo",
+    "deskripsi": "quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 191,
+    "nama": "Man of the Year, The (O Homem do Ano)",
+    "tahun_terbit": 2001,
+    "publisher": "Zoomcast",
+    "deskripsi": "magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 192,
+    "nama": "Irma la Douce",
+    "tahun_terbit": 1996,
+    "publisher": "Cogilith",
+    "deskripsi": "lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 6
+  },{
+    "_id": 193,
+    "nama": "Hot to Trot",
+    "tahun_terbit": 1990,
+    "publisher": "Browsezoom",
+    "deskripsi": "pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 2
+  },{
+    "_id": 194,
+    "nama": "Frankie and Johnny",
+    "tahun_terbit": 2001,
+    "publisher": "Blogspan",
+    "deskripsi": "sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 195,
+    "nama": "Sissi: The Young Empress (Sissi - Die Junge Kaiserin)",
+    "tahun_terbit": 2008,
+    "publisher": "Avamm",
+    "deskripsi": "eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 7
+  },{
+    "_id": 197,
+    "nama": "Miracle of Bern, The (Wunder von Bern, Das)",
+    "tahun_terbit": 2011,
+    "publisher": "Eabox",
+    "deskripsi": "aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 5
+  },{
+    "_id": 198,
+    "nama": "Always Leave Them Laughing",
+    "tahun_terbit": 2012,
+    "publisher": "Gigabox",
+    "deskripsi": "amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 3
+  },{
+    "_id": 199,
+    "nama": "International, The",
+    "tahun_terbit": 1987,
+    "publisher": "Jabbertype",
+    "deskripsi": "id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 1
+  },{
+    "_id": 200,
+    "nama": "Bachelor Mother",
+    "tahun_terbit": 2007,
+    "publisher": "Kazu",
+    "deskripsi": "a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id",
+    "img": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+    "release": [
+      {
+        "tipe": "tv",
+        "airing": "2021"
+      },
+      {
+        "tipe": "book",
+        "airing": "2020"
+      },
+      {
+        "tipe": "adaptation",
+        "airing": "2023"
+      }
+    ],
+    "kategori": 8
+  }]

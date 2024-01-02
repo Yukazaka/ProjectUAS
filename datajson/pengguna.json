@@ -1,0 +1,37 @@
+[{
+    "_id": {
+      "$oid": "6406fdec1ecd1dc0c48fcc89"
+    },
+    "nama": "jojo",
+    "jk": "pria",
+    "password": "$2b$10$y4ZxaWWUzJBYmzawbHmGlO4zUKnkQCDu9T0CuevBxtOo8l22m7Q7i",
+    "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwZW5nZ3VuYSI6eyJfaWQiOiI2NDA2ZmRlYzFlY2QxZGMwYzQ4ZmNjODkiLCJuYW1hIjoiam9qbyIsImprIjoicHJpYSIsInJvbGVzIjpbImFkbWluIiwibWFuYWdlciIsInZpc2l0b3IiXX0sImlhdCI6MTY4MTE4MTU0NiwiZXhwIjoxNjgxMjY3OTQ2fQ.KMSkewbzPAgjb0qoPLnmPaK2aC3Oawzo3azSdvehow4",
+    "roles": [
+      "admin",
+      "manager",
+      "visitor"
+    ]
+  },{
+    "_id": {
+      "$oid": "6406fe7f78577444775d807f"
+    },
+    "nama": "giorno",
+    "jk": "pria",
+    "password": "$2b$10$y4ZxaWWUzJBYmzawbHmGlO4zUKnkQCDu9T0CuevBxtOo8l22m7Q7i",
+    "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwZW5nZ3VuYSI6eyJfaWQiOiI2NDA2ZmU3Zjc4NTc3NDQ0Nzc1ZDgwN2YiLCJuYW1hIjoiZ2lvcm5vIiwiamsiOiJwcmlhIiwicm9sZXMiOlsibWFuYWdlciIsInZpc2l0b3IiXX0sImlhdCI6MTY3ODE4MjkwMCwiZXhwIjoxNjc4MjY5MzAwfQ.B3gGuKhGgOYzuoN39wL-b4HKCCpoeie4xXaFQq-zAJQ",
+    "roles": [
+      "manager",
+      "visitor"
+    ]
+  },{
+    "_id": {
+      "$oid": "6406ffa278577444775d8080"
+    },
+    "nama": "jolyne",
+    "jk": "wanita",
+    "password": "$2b$10$y4ZxaWWUzJBYmzawbHmGlO4zUKnkQCDu9T0CuevBxtOo8l22m7Q7i",
+    "refresh_token": "",
+    "roles": [
+      "visitor"
+    ]
+  }]

@@ -1,0 +1,356 @@
+{
+	"info": {
+		"_postman_id": "261f3a01-d4e7-4c27-ba27-cc76b2772ae0",
+		"name": "ISOMORPHIC",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "12593354"
+	},
+	"item": [
+		{
+			"name": "Movie",
+			"item": [
+				{
+					"name": "queryMovie",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{HOST}}/movie",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"movie"
+							],
+							"query": [
+								{
+									"key": "keyword",
+									"value": "of",
+									"disabled": true
+								},
+								{
+									"key": "tahun_terbit_awal",
+									"value": "2002",
+									"disabled": true
+								},
+								{
+									"key": "tahun_terbit_akhir",
+									"value": "2003",
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "queryKategori",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{HOST}}/kategori",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"kategori"
+							],
+							"query": [
+								{
+									"key": "keyword",
+									"value": "of",
+									"disabled": true
+								},
+								{
+									"key": "tahun_terbit_awal",
+									"value": "2002",
+									"disabled": true
+								},
+								{
+									"key": "tahun_terbit_akhir",
+									"value": "2003",
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getSingleMovie",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{HOST}}/movie/1",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"movie",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "postMovie",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "nama",
+									"value": "Movie Baru",
+									"type": "text"
+								},
+								{
+									"key": "tahun_terbit",
+									"value": "2024",
+									"type": "text"
+								},
+								{
+									"key": "publisher",
+									"value": "ISTTS",
+									"type": "text"
+								},
+								{
+									"key": "deskripsi",
+									"value": "ini deskripsi movie baru",
+									"type": "text"
+								},
+								{
+									"key": "img",
+									"value": "https://dummyimage.com/200x200.png/BB4444/ffffff",
+									"type": "text"
+								},
+								{
+									"key": "release[0][tipe]",
+									"value": "tv",
+									"type": "text"
+								},
+								{
+									"key": "release[0][airing]",
+									"value": "2025",
+									"type": "text"
+								},
+								{
+									"key": "kategori",
+									"value": "2",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{HOST}}/movie",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"movie"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "putMovie",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "nama",
+									"value": "Movie put 122",
+									"type": "text"
+								},
+								{
+									"key": "tahun_terbit",
+									"value": "2111",
+									"type": "text"
+								},
+								{
+									"key": "publisher",
+									"value": "ISTTS 122",
+									"type": "text"
+								},
+								{
+									"key": "deskripsi",
+									"value": "ini deskripsi movie put 1",
+									"type": "text"
+								},
+								{
+									"key": "img",
+									"value": "https://dummyimage.com/200x200.png/44BB44/ffffff",
+									"type": "text"
+								},
+								{
+									"key": "release[0][tipe]",
+									"value": "manga",
+									"type": "text"
+								},
+								{
+									"key": "release[0][airing]",
+									"value": "2111",
+									"type": "text"
+								},
+								{
+									"key": "kategori",
+									"value": "3",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{HOST}}/movie/1",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"movie",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "deleteMovie",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{HOST}}/movie/201",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"movie",
+								"201"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Auth",
+			"item": [
+				{
+					"name": "Register",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "nama",
+									"value": "user1",
+									"type": "text"
+								},
+								{
+									"key": "jk",
+									"value": "pria",
+									"type": "text"
+								},
+								{
+									"key": "password",
+									"value": "aA1!",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{HOST}}/auth/register",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"auth",
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "nama",
+									"value": "jojo",
+									"type": "text"
+								},
+								{
+									"key": "password",
+									"value": "123",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{HOST}}/auth/login",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"auth",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Logout",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{HOST}}/auth/logout",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"auth",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "RefreshToken",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{HOST}}/auth/refreshToken",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"auth",
+								"refreshToken"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
