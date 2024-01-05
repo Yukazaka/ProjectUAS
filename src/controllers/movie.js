@@ -1,4 +1,4 @@
-const { daftar } = require("../models").default;
+const { daftar } = require("../models");
 
 const queryMovie = async (req, res) => {
   const { keyword } = req.query;
