@@ -1,7 +1,7 @@
-const { daftar } = require("../models");
+const { daftar } = require("../models").default;
 
 const queryMovie = async (req, res) => {
-  const { keyword, tahun_terbit_awal, tahun_terbit_akhir } = req.query;
+  const { keyword } = req.query;
   let result = daftar.find();
 
   if (keyword !== undefined) {
@@ -9,28 +9,28 @@ const queryMovie = async (req, res) => {
     result = result.where("nama", new RegExp(keyword, "i"));
   }
 
-  if (tahun_terbit_awal !== undefined) {
-    // // cara mongodb dan mongosh
-    // result = result.where({ tahun_terbit: { $gte: tahun_terbit_awal } });
+  // if (tahun_terbit_awal !== undefined) {
+  //   // // cara mongodb dan mongosh
+  //   // result = result.where({ tahun_terbit: { $gte: tahun_terbit_awal } });
 
-    // cara mongoose
-    result = result.where("tahun_terbit").gte(Number(tahun_terbit_awal));
-  }
+  //   // cara mongoose
+  //   result = result.where("tahun_terbit").gte(Number(tahun_terbit_awal));
+  // }
 
-  if (tahun_terbit_akhir !== undefined) {
-    result = result.where("tahun_terbit").lte(Number(tahun_terbit_akhir));
-  }
+  // if (tahun_terbit_akhir !== undefined) {
+  //   result = result.where("tahun_terbit").lte(Number(tahun_terbit_akhir));
+  // }
 
-  result = await result
-    .sort({ _id: 1, kategori_id: -1, tahun_terbit: -1 })
-    .populate("kategori")
-    .exec();
+  // result = await result
+  //   .sort({ _id: 1, kategori_id: -1, tahun_terbit: -1 })
+  //   .populate("kategori")
+  //   .exec();
 
-  if (result.length < 1) {
-    return res.status(404).json({ message: "Movie tidak ditemukan" });
-  } else {
-    return res.status(200).json(result);
-  }
+  // if (result.length < 1) {
+  //   return res.status(404).json({ message: "Movie tidak ditemukan" });
+  // } else {
+  //   return res.status(200).json(result);
+  // }
 };
 
 const getSingleMovie = async (req, res) => {
