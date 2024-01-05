@@ -1,8 +1,8 @@
 // const KategoriMovie = require("./KategoriMovie");
 const Daftar = require("./Daftar");
-const Pengguna = require("./Pengguna");
+const Assassin = require("./Assassin");
 
 module.exports = {
   Daftar,
-  Pengguna,
+  Assassin,
 };

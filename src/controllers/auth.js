@@ -3,7 +3,7 @@
  */
 
 const bcrypt = require("bcrypt");
-const { Pengguna } = require("../models");
+const { Assassin } = require("../models");
 const jwt = require("jsonwebtoken");
 const schema = require("../utils/validations/auth");
 
@@ -18,8 +18,8 @@ const register = async (req, res) => {
       .json({ msg: "Pastikan inputan anda sudah benar dan tervalidasi" });
   }
 
-  const penggunaSudahAda = await Pengguna.findOne({ nama: body.nama }).exec();
-  if (penggunaSudahAda) {
+  const AssassinSudahAda = await Assassin.findOne({ nama: body.nama }).exec();
+  if (AssassinSudahAda) {
     return res.status(400).json({
       msg: "Username telah digunakan, silakan mencoba register dengan nama user lain",
     });
@@ -30,7 +30,7 @@ const register = async (req, res) => {
     hashedPassword = hash;
   });
 
-  const result = await Pengguna.create({
+  const result = await Assassin.create({
     nama: body.nama,
     jk: body.jk,
     password: hashedPassword,
@@ -50,34 +50,34 @@ const login = async (req, res) => {
       .json({ msg: "Silakan masukkan username dan password" });
   }
 
-  const pengguna = await Pengguna.findOne({ nama: nama })
+  const assassin = await Assassin.findOne({ nama: nama })
     .select("-refresh_token")
     .exec();
 
-  if (!pengguna) {
+  if (!assassin) {
     return res.status(401).json({ msg: "Gagal login" });
   }
 
-  const checkPassword = await bcrypt.compare(password, pengguna.password);
+  const checkPassword = await bcrypt.compare(password, assassin.password);
 
   if (checkPassword) {
     // hapus dulu password nya !PENTING!
     pengguna.password = undefined;
     //lakukan json.stringify untuk mengubah object menjadi json string
     const accessToken = jwt.sign(
-      { pengguna },
+      { assassin },
       process.env.ACCESS_TOKEN_SECRET,
       { expiresIn: process.env.ACCESS_TOKEN_TTL }
     );
     const refreshToken = jwt.sign(
-      { pengguna },
+      { assassin },
       process.env.REFRESH_TOKEN_SECRET,
       { expiresIn: process.env.REFRESH_TOKEN_TTL }
     );
 
     // simpan refresh token ke user
-    const updatedPengguna = await Pengguna.findOneAndUpdate(
-      { _id: pengguna._id },
+    const updatedAssassin = await Assassin.findOneAndUpdate(
+      { _id: assassin._id },
       {
         refresh_token: refreshToken,
       },
@@ -116,22 +116,22 @@ const refreshToken = async (req, res) => {
     return res.status(401).send("Tidak bisa baca cookie/tidak ada cookie");
   }
   const refreshToken = cookies.jwt;
-  const pengguna = await Pengguna.findOne({ refresh_token: refreshToken })
+  const assassin = await Assassin.findOne({ refresh_token: refreshToken })
     .select("-refresh_token")
     .exec();
 
-  if (!pengguna) {
+  if (!assassin) {
     return res.sendStatus(403);
   }
 
   jwt.verify(refreshToken, process.env.REFRESH_TOKEN_SECRET, (err, decoded) => {
-    if (err || pengguna._id.toString() !== decoded.pengguna._id.toString()) {
+    if (err || assassin._id.toString() !== decoded.assassin._id.toString()) {
       return res.sendStatus(403);
     } else {
       // hapus dulu password nya !PENTING!
-      pengguna.password = undefined;
+      assassin.password = undefined;
       const accessToken = jwt.sign(
-        { pengguna },
+        { assassin },
         process.env.ACCESS_TOKEN_SECRET,
         { expiresIn: process.env.ACCESS_TOKEN_TTL }
       );
@@ -146,11 +146,11 @@ const logout = async (req, res) => {
     return res.sendStatus(204); // kebetulan cookienya hbs ya udah, successfull no content
   }
   const refreshToken = cookies.jwt;
-  const pengguna = await Pengguna.findOne({
+  const assassin = await Assassin.findOne({
     where: { refresh_token: refreshToken },
   });
 
-  if (!pengguna) {
+  if (!assassin) {
     res.clearCookie("jwt", {
       httpOnly: true,
       sameSite: "None",
@@ -159,7 +159,7 @@ const logout = async (req, res) => {
     return res.sendStatus(204); // kebetulan cookienya hbs ya udah, successfull no content
   }
 
-  await pengguna.update({ refresh_token: null });
+  await assassin.update({ refresh_token: null });
   res.clearCookie("jwt", {
     httpOnly: true,
     sameSite: "None",

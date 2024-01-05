@@ -1,0 +1,27 @@
+[
+    {
+        "_id":1,
+        "nama": "Dew",
+        "jk": "Male",
+        "password": "Dew123455! ",
+        "refresh_token": " ",
+        "roles": "Leader"
+      },
+      {
+        "_id": 2,
+        "nama": "Mel",
+        "jk": "Female",
+        "password": "Mel123455! ",
+        "refresh_token": " ",
+        "roles": "Member"
+      },
+      {
+        "_id": 3,
+        "nama": "Kyo",
+        "jk": "Male",
+        "password": "Kyo123455! ",
+        "refresh_token": " ",
+        "roles": "Member"
+      }
+      
+]

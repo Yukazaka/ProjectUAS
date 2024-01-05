@@ -1,0 +1,182 @@
+[
+    {
+        "_id": 1,
+        "nama_target": "Yuzuhara",
+        "usia": "23",
+        "deskripsi": "Pembunuhan berantai",
+        "kategori": "Red",
+        "gender"   : "Female" 
+        
+    },
+    {
+        "_id": 2,
+        "nama_target": "Meruko",
+        "usia": "21",
+        "deskripsi": "Pembobol bank handal",
+        "kategori": "Red",
+        "gender"   : "Female" 
+        
+    },
+    {
+        "_id": 3,
+        "nama_target": "Dazai",
+        "usia": "21",
+        "deskripsi": "Mafia",
+        "kategori": "Yellow",
+        "gender"   : "Male" 
+        
+    },
+    {
+        "_id": 4,
+        "nama_target": "Kitsune",
+        "usia": "17",
+        "deskripsi": "Penipu handal",
+        "kategori": "Yellow",
+        "gender"   : "Female" 
+        
+    },
+    {
+        "_id": 5,
+        "nama_target": "Yumetzu",
+        "usia": "24",
+        "deskripsi": "Agent ganda",
+        "kategori": "Red",
+        "gender"   : "Male" 
+        
+    },
+    {
+        "_id": 6,
+        "nama_target": "Pinecone",
+        "usia": "21",
+        "deskripsi": "Perakit Bom",
+        "kategori": "Red",
+        "gender"   : "Male" 
+        
+    },
+    {
+        "_id": 7,
+        "nama_target": "Kurogane",
+        "usia": "31",
+        "deskripsi": "Samurai berdarah dingin",
+        "kategori": "Red",
+        "gender"   : "Male" 
+        
+    },
+    {
+        "_id": 8,
+        "nama_target": "Yukazaka",
+        "usia": "27",
+        "deskripsi": "Ahli strategi perang",
+        "kategori": "Red",
+        "gender"   : "Male" 
+        
+    },
+    {
+        "_id": 9,
+        "nama_target": "Misaki",
+        "usia": "32",
+        "deskripsi": "Pengebom handal",
+        "kategori": "Red",
+        "gender"   : "Female" 
+        
+    },
+    {
+        "_id": 10,
+        "nama_target": "Margaret",
+        "usia": "22",
+        "deskripsi": "Ahli saraf",
+        "kategori": "Yellow",
+        "gender"   : "Female" 
+        
+    },
+    {
+        "_id": 11,
+        "nama_target": "Wolfbrain",
+        "usia": "22",
+        "deskripsi": "Ahli strategi perang",
+        "kategori": "Yellow",
+        "gender"   : "Male" 
+        
+    },
+    {
+        "_id": 12,
+        "nama_target": "Kise",
+        "usia": "33",
+        "deskripsi": "Pembuat senjata",
+        "kategori": "Yellow",
+        "gender"   : "Male" 
+        
+    },
+    {
+        "_id": 13,
+        "nama_target": "Kagami",
+        "usia": "28",
+        "deskripsi": "Pembuat armor",
+        "kategori": "Yellow",
+        "gender"   : "Male" 
+        
+    },
+    {
+        "_id": 14,
+        "nama_target": "Miku",
+        "usia": "33",
+        "deskripsi": "Penyanyi kematian",
+        "kategori": "Red",
+        "gender"   : "Female" 
+        
+    },
+    {
+        "_id": 15,
+        "nama_target": "Riku",
+        "usia": "41",
+        "deskripsi": "Pembunuhan berantai",
+        "kategori": "Red",
+        "gender"   : "Male" 
+        
+    },
+    {
+        "_id": 16,
+        "nama_target": "Kikyo",
+        "usia": "25",
+        "deskripsi": "Pembunuhan berantai",
+        "kategori": "Red",
+        "gender"   : "Female" 
+        
+    },
+    {
+        "_id": 17,
+        "nama_target": "Shadow",
+        "usia": "27",
+        "deskripsi": "Pembunuh bayangan",
+        "kategori": "Red",
+        "gender"   : "Male" 
+        
+    },
+    {
+        "_id": 18,
+        "nama_target": "Korokara",
+        "usia": "22",
+        "deskripsi": "Pelatih pembunuh bayaran",
+        "kategori": "Red",
+        "gender"   : "Male" 
+        
+    },
+    {
+        "_id": 19,
+        "nama_target": "Yuyu",
+        "usia": "31",
+        "deskripsi": "Pelatih pembunuh bayaran",
+        "kategori": "Red",
+        "gender"   : "Female" 
+        
+    },
+    {
+        "_id": 20,
+        "nama_target": "Yume",
+        "usia": "24",
+        "deskripsi": "Time Travel",
+        "kategori": "Red",
+        "gender"   : "Male" 
+        
+    }
+]
